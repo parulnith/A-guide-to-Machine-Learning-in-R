@@ -7,8 +7,8 @@ But the main point is deep understanding of the algorithms and their application
 
 In this series of articles on **Machine Learning in R** we delve into fundamentals of Machine Learning and the various algorithms needed.
 
- 1. **A Guide to Machine Learning in R for Beginners- Part 1**
-          In the first part, we learn about the building blocks of Machine Learning: **Statistics**.
+ 1. **A Guide to Machine Learning in R for Beginners- Part 1**  
+    In the first part, we learn about the building blocks of Machine Learning: **Statistics**.
           
  2. **A Guide to Machine Learning in R for Beginners- Part 2**
           In the second  part, we learn about downloading and installing the **R statistical language** 
