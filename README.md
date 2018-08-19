@@ -2,8 +2,7 @@
 
 ![](https://github.com/parulnith/A-guide-to-Machine-Learning-in-R/blob/master/Logo.png)
 
-### While choosing the best programming language for data science, two of the most popular languages around, **R** and **Python** come to mind but choosing between them is always a dilemma for a data scientist.
-But the main point is deep understanding of the algorithms and their application can be in any language of choice.
+### While choosing the best programming language for data science, two of the most popular languages around, **R** and **Python** come to mind but choosing between them is always a dilemma for a data scientist.But the main point is deep understanding of the algorithms and their application can be in any language of choice.
 
 In this series of articles on **Machine Learning in R** we delve into fundamentals of Machine Learning and the various algorithms needed.
 
