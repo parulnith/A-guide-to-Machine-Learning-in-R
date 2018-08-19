@@ -10,14 +10,14 @@ In this series of articles on **Machine Learning in R** we delve into fundamenta
  1. **A Guide to Machine Learning in R for Beginners- Part 1**  
     In the first part, we learn about the building blocks of Machine Learning: **Statistics**.
           
- 2. **A Guide to Machine Learning in R for Beginners- Part 2**
-          In the second  part, we learn about downloading and installing the **R statistical language** 
+ 2. **A Guide to Machine Learning in R for Beginners- Part 2**  
+     In the second  part, we learn about downloading and installing the **R statistical language** 
           
- 3. **A Guide to Machine Learning in R for Beginners- Part 3**
-			 In the third part, we discuss basic operations in R.We also delve into  **Exploratory Data Analysis** in R
+ 3. **A Guide to Machine Learning in R for Beginners- Part 3**  
+     In the third part, we discuss basic operations in R.We also delve into  **Exploratory Data Analysis** in R
 			 
- 4. **A Guide to Machine Learning in R for Beginners- Part 4**
-			 In this part , we get to know about functions , models and hypothesis. We also study in detail about **Linear Regression** with code in R
+ 4. **A Guide to Machine Learning in R for Beginners- Part 4**  
+     In this part , we get to know about functions , models and hypothesis. We also study in detail about **Linear Regression** with code in R
 			 
- 5. **A Guide to Machine Learning in R for Beginners- Part 5**
-			 In this part, we  discuss in detail about **Logistic Regression** in R.
+ 5. **A Guide to Machine Learning in R for Beginners- Part 5**  
+    In this part, we  discuss in detail about **Logistic Regression** in R.
