@@ -1,7 +1,4 @@
-# Unit 3, Modeling the Expert
 
-
-# Video 4
 
 # Read in dataset
 quality = read.csv("quality.csv")
@@ -40,9 +37,6 @@ summary(predictTrain)
 tapply(predictTrain, qualityTrain$PoorCare, mean)
 
 
-
-# Video 5
-
 # Confusion matrix for threshold of 0.5
 table(qualityTrain$PoorCare, predictTrain > 0.5)
 
@@ -65,9 +59,6 @@ table(qualityTrain$PoorCare, predictTrain > 0.2)
 54/74
 
 
-
-# Video 6
-
 # Install and load ROCR package
 install.packages("ROCR")
 library(ROCR)
@@ -86,3 +77,9 @@ plot(ROCRperf, colorize=TRUE)
 
 # Add threshold labels 
 plot(ROCRperf, colorize=TRUE, print.cutoffs.at=seq(0,1,by=0.1), text.adj=c(-0.2,1.7))
+
+# Prediction on Test Set
+predictTest = predict(QualityLog, type = "response", newdata = qualityTest)
+table(qualityTest$PoorCare,predictTest >= 0.3)
+
+
