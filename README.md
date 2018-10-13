@@ -22,6 +22,6 @@ In this series of articles on **Machine Learning in R** we delve into fundamenta
     In this part, we  discuss in detail about **Logistic Regression** in R.
     
  6. **A Guide to Machine Learning in R for Beginners- Part 6**(https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-part-5-4c00f2366b90)  
-    In this part, we  discuss in detail about **Decision Trees ** in R with an example
+    In this part, we  discuss in detail about **Decision Trees** in R with an example
     
 ---
