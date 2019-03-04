@@ -23,9 +23,8 @@ In this series of articles on **Machine Learning in R** we delve into fundamenta
     
  6. [**A Guide to Machine Learning in R for Beginners- Part 6**](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-part-5-4c00f2366b90)  
     In this part, we  discuss in detail about **Decision Trees** in R with an example
-    
----
-  ### [A Comprehensive Guide to Data Visualisation in R for Beginners](https://towardsdatascience.com/a-guide-to-data-visualisation-in-r-for-beginners-ef6d41a34174)
+   
+ 7. ### [A Comprehensive Guide to Data Visualisation in R for Beginners](https://towardsdatascience.com/a-guide-to-data-visualisation-in-r-for-beginners-ef6d41a34174)
 
 An overview of the R visualisation capabilities.
 ![](https://github.com/parulnith/Data-Visualisation-libraries/blob/master/Data-Visualisation-with-R/Multiple%20charts/multiple%20charts.png)
